@@ -1,5 +1,5 @@
 # merge-together
 that
 is
-some
+good
 text
